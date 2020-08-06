@@ -1,0 +1,13 @@
+C:\Users\Yasmin Laiz\source\repos\ExercícioResolvido02\ExercícioResolvido02\obj\Debug\netcoreapp3.1\ExercícioResolvido02.csprojAssemblyReference.cache
+C:\Users\Yasmin Laiz\source\repos\ExercícioResolvido02\ExercícioResolvido02\obj\Debug\netcoreapp3.1\ExercícioResolvido02.AssemblyInfoInputs.cache
+C:\Users\Yasmin Laiz\source\repos\ExercícioResolvido02\ExercícioResolvido02\obj\Debug\netcoreapp3.1\ExercícioResolvido02.AssemblyInfo.cs
+C:\Users\Yasmin Laiz\source\repos\ExercícioResolvido02\ExercícioResolvido02\obj\Debug\netcoreapp3.1\ExercícioResolvido02.csproj.CoreCompileInputs.cache
+C:\Users\Yasmin Laiz\source\repos\ExercícioResolvido02\ExercícioResolvido02\bin\Debug\netcoreapp3.1\ExercícioResolvido02.exe
+C:\Users\Yasmin Laiz\source\repos\ExercícioResolvido02\ExercícioResolvido02\bin\Debug\netcoreapp3.1\ExercícioResolvido02.deps.json
+C:\Users\Yasmin Laiz\source\repos\ExercícioResolvido02\ExercícioResolvido02\bin\Debug\netcoreapp3.1\ExercícioResolvido02.runtimeconfig.json
+C:\Users\Yasmin Laiz\source\repos\ExercícioResolvido02\ExercícioResolvido02\bin\Debug\netcoreapp3.1\ExercícioResolvido02.runtimeconfig.dev.json
+C:\Users\Yasmin Laiz\source\repos\ExercícioResolvido02\ExercícioResolvido02\bin\Debug\netcoreapp3.1\ExercícioResolvido02.dll
+C:\Users\Yasmin Laiz\source\repos\ExercícioResolvido02\ExercícioResolvido02\bin\Debug\netcoreapp3.1\ExercícioResolvido02.pdb
+C:\Users\Yasmin Laiz\source\repos\ExercícioResolvido02\ExercícioResolvido02\obj\Debug\netcoreapp3.1\ExercícioResolvido02.dll
+C:\Users\Yasmin Laiz\source\repos\ExercícioResolvido02\ExercícioResolvido02\obj\Debug\netcoreapp3.1\ExercícioResolvido02.pdb
+C:\Users\Yasmin Laiz\source\repos\ExercícioResolvido02\ExercícioResolvido02\obj\Debug\netcoreapp3.1\ExercícioResolvido02.genruntimeconfig.cache
